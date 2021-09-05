@@ -4,17 +4,18 @@ General info about the subject JavaScript
 
 ## Lectures
 - 00 Introduction to the subject - [presentation](https://docs.google.com/presentation/d/1vt6rgfyrKA48ku0H9lflifwOoDTe9mUhp1nBmYjmymg/edit?usp=sharing).
-- 01 JavaScript Basics - presentation
+- 01 Introduction to JavaScript - [presentation](https://docs.google.com/presentation/d/1zB7jZ6AEbAVsUg-Eyf3Kf_CJg-gyach-BP5QgnEApBo/edit?usp=sharing).
+- 02 JavaScript Basics - presentation
 
 
 ## Labs
-- 00 N/A
+- 01 N/A
   -  Homework:
       - Install NodeJS LTS version (verify using `node -v` in terminal)
       - Install git (verify using `git --verison` in terminal)
       - Make sure you have GitHub account and properly setup your machine to work with git
       - Install IDE of your choice for JS (Recommended VSC or WebStorm)
-- 01 JavaScript basics xxxx
+- 02 JavaScript basics xxxx
 
 
 ---
