@@ -12,6 +12,7 @@ Labs: Wednesday 16:45 - 18:30 EB104 and EB207
 
 
 ## Labs
+
 - 01 N/A
   -  Homework:
       - Install NodeJS LTS version (verify using `node -v` in terminal)
@@ -19,6 +20,13 @@ Labs: Wednesday 16:45 - 18:30 EB104 and EB207
       - Make sure you have GitHub account and properly setup your machine to work with git
       - Install IDE of your choice for JS (Recommended VSC or WebStorm)
 - 02 JavaScript basics xxxx
+
+
+#### Labs evaluation
+- Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
+- 4 points for each lab 
+  - 1 point that if we can run your file / project without error!
+  - 3 points for finishing the tasks properly ((finished tasks / amount of tasks) * 3)
 
 
 ---
