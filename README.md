@@ -25,7 +25,7 @@ Labs: Wednesday 16:45 - 18:30 EB104 and EB207
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 4 points for each lab 
-  - 1 point that if we can run your file / project without error!
+  - 1 point that if we can run your file / project without error! Learn why this rule [here](https://github.com/vsb-js/general/blob/main/CODERUNS.md).
   - 3 points for finishing the tasks properly ((finished tasks / amount of tasks) * 3)
 
 
