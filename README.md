@@ -4,7 +4,7 @@ General info about the subject JavaScript
 Lecture: Wednesday 16:00 - 16:45 - EB331  
 Labs: Wednesday 16:45 - 18:30 EB104 and EB207
 
-
+Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 ## Lectures
 - 00 Introduction to the subject - [presentation](https://docs.google.com/presentation/d/1vt6rgfyrKA48ku0H9lflifwOoDTe9mUhp1nBmYjmymg/edit?usp=sharing).
 - 01 Introduction to JavaScript - [presentation](https://docs.google.com/presentation/d/1zB7jZ6AEbAVsUg-Eyf3Kf_CJg-gyach-BP5QgnEApBo/edit?usp=sharing).
