@@ -10,6 +10,8 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 01 Introduction to JavaScript - [presentation](https://docs.google.com/presentation/d/1zB7jZ6AEbAVsUg-Eyf3Kf_CJg-gyach-BP5QgnEApBo/edit?usp=sharing).
 - 02 JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1QYYmIFhDvorQD1rP93QD1c1pK_ijDMVV8CETpe5eI5I/edit?usp=sharing)
 
+#### Fill in you github username
+https://docs.google.com/spreadsheets/d/1yu0prfhSi3Y5Sn1E4An-PG_XLAmetakIm_qwsI0Pcy0/edit?usp=sharing
 
 ## Labs
 
@@ -20,7 +22,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
       - Make sure you have GitHub account and properly setup your machine to work with git
       - Install IDE of your choice for JS (Recommended VSC or WebStorm)
 - 02 JavaScript basics
-  - Assigment  
+  - Assigment https://classroom.github.com/a/C24ScO_1
 
 
 #### Labs evaluation
