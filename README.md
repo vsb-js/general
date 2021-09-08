@@ -8,7 +8,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 ## Lectures
 - 00 Introduction to the subject - [presentation](https://docs.google.com/presentation/d/1vt6rgfyrKA48ku0H9lflifwOoDTe9mUhp1nBmYjmymg/edit?usp=sharing).
 - 01 Introduction to JavaScript - [presentation](https://docs.google.com/presentation/d/1zB7jZ6AEbAVsUg-Eyf3Kf_CJg-gyach-BP5QgnEApBo/edit?usp=sharing).
-- 02 JavaScript Basics - presentation
+- 02 JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1QYYmIFhDvorQD1rP93QD1c1pK_ijDMVV8CETpe5eI5I/edit?usp=sharing)
 
 
 ## Labs
@@ -19,14 +19,15 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
       - Install git (verify using `git --verison` in terminal)
       - Make sure you have GitHub account and properly setup your machine to work with git
       - Install IDE of your choice for JS (Recommended VSC or WebStorm)
-- 02 JavaScript basics xxxx
+- 02 JavaScript basics
+  - Assigment  
 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 4 points for each lab 
-  - 1 point that if we can run your file / project without error! Learn why this rule [here](https://github.com/vsb-js/general/blob/main/CODERUNS.md).
-  - 3 points for finishing the tasks properly ((finished tasks / amount of tasks) * 3)
+  - 1 point - if we can run your file / project without error! Learn why this rule [here](https://github.com/vsb-js/general/blob/main/CODERUNS.md).
+  - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 3)
 
 
 ---
