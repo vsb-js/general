@@ -20,7 +20,13 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
       - Install IDE of your choice for JS (Recommended VSC or WebStorm)
 - 02 JavaScript basics
   - Assigment https://classroom.github.com/a/C24ScO_1
-
+  - Required tasks for 3 points:
+     - All tasks in file array.js
+     - All tasks in file objects.js
+     - All tasks in file strings.js
+  - 1 point if those files can be run without error
+  - You can earn 1 extra point for finishing tasks in cycles.js
+  - Deadline (Sep 22, 2021, 16:00 CEST), but please try to do it ASAP
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
@@ -28,6 +34,10 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point - if we can run your file / project without error! Learn why this rule [here](https://github.com/vsb-js/general/blob/main/CODERUNS.md).
   - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 3)
 
+
+
+#### Tips and tricks:
+- [How to format your code](https://github.com/vsb-js/forum-2021-winter/discussions/2)
 
 ---
 
@@ -66,14 +76,5 @@ Lectures and materials for the subject
 ## Recommended Literature
 - JavaScript: The Good Parts, Douglas Crockford, O'Reilly Media 2008, ISBN: 9780596517748
 - Fullstack React: The Complete Guide to ReactJS and Friends. Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis, Fullstack.io, 2017.  ISBN 978-0-9913446-2-8
-
-
-
-
-
-
-
-
-
 
 
