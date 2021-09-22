@@ -10,6 +10,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 01 Introduction to JavaScript - [presentation](https://docs.google.com/presentation/d/1zB7jZ6AEbAVsUg-Eyf3Kf_CJg-gyach-BP5QgnEApBo/edit?usp=sharing).
 - 02 JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1QYYmIFhDvorQD1rP93QD1c1pK_ijDMVV8CETpe5eI5I/edit?usp=sharing)
 - 03 JavaScript Advanced principles - [presentation](https://docs.google.com/presentation/d/1qmV0E9fpyqJy8xL_Bt09bVs7hl10TD2Ym3woSqQ6Kmk/edit?usp=sharing)
+- 04 JavaScript Modules, debugging - [presentation](https://docs.google.com/presentation/d/1PRYeZAmywSd4pfirIPZQv6qic5ty5rUUBsh_6Lfux3I/edit?usp=sharing)
 
 ## Labs
 
@@ -36,6 +37,13 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if those files can be run without error and package.json is properly set with dependencies
   - You can earn 1 extra point for finishing tasks in task-bonus.js
   - Deadline - in 10 days (Sep 26, 2021), but please try to do it ASAP
+- 04 JavaScript - modules / debugging 
+ -  Assigment 
+  - Required tasks for 3 points:
+    - As desrcribed in README
+  - 1 point if index.js runs without any error 
+  - Deadline ( Oct 3, 2021), but please try to do it ASAP
+
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
