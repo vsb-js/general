@@ -38,7 +38,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - You can earn 1 extra point for finishing tasks in task-bonus.js
   - Deadline - in 10 days (Sep 26, 2021), but please try to do it ASAP
 - 04 JavaScript - modules / debugging 
- -  Assigment 
+  - Assigment 
   - Required tasks for 3 points:
     - As desrcribed in README
   - 1 point if index.js runs without any error 
