@@ -45,7 +45,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if index.js runs without any error 
   - Deadline ( Oct 3, 2021), but please try to do it ASAP
 - 05 NodeJS - Expres server
-  - Assigment https://classroom.github.com/a/3LH1DoVz
+  - Assigment TBD
   - Required tasks for 3 points:
     - As described in README, index.js
   - 1 point if index.js runs without any error
