@@ -56,7 +56,11 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 4 points for each lab 
   - 1 point - if we can run your file / project without error! Learn why this rule [here](https://github.com/vsb-js/general/blob/main/CODERUNS.md).
   - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 3)
+##### Cheating / copying the code
+It's OK to help each other out in the tasks. To tell your friend the solution. Link him the stack overflow answer or something. But in most cases the tasks are per multiple lines and we can really tell that you copied the code exactly 1:1 from someone else and didn't even changed single character.
 
+In cases where code is copied 1:1, the person who had earlier commit will be given points. The person who copied will get 0.
+And we highly not recommend giving your code to people to do 1:1 copy - we can easily make mistake and give the points to the one who copied and the original might get 0.
 
 
 #### Tips and tricks:
