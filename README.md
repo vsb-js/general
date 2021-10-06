@@ -52,7 +52,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if index.js runs without any error
   - You can earn 1 extra point for finishing taks in bonus.js
 - 06 ORM - Sequelize
-  - Assigment
+  - Assigment https://classroom.github.com/a/xqstIa46
   - Required tasks for 3 points:
     - As described in README 
   - 1 point if index.js runs without any error
