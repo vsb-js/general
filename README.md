@@ -12,6 +12,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 03 JavaScript Advanced principles - [presentation](https://docs.google.com/presentation/d/1qmV0E9fpyqJy8xL_Bt09bVs7hl10TD2Ym3woSqQ6Kmk/edit?usp=sharing)
 - 04 JavaScript Modules, debugging - [presentation](https://docs.google.com/presentation/d/1PRYeZAmywSd4pfirIPZQv6qic5ty5rUUBsh_6Lfux3I/edit?usp=sharing)
 - 05 NodeJS - Express Server - [presentation](https://docs.google.com/presentation/d/1RZJXLhgdzBajMYx7RHfO8k6gByorKBxMe8V7G97OmG0/edit?usp=sharing)
+- 06 ORM - Sequelize - [presentation](https://docs.google.com/presentation/d/1QOj9iJxpC3wRnAQWFBvzUzQFgI15Zv_cOcB5LKL2SLo/edit?usp=sharing)
 
 ## Labs
 
@@ -50,6 +51,11 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
     - As described in README, index.js
   - 1 point if index.js runs without any error
   - You can earn 1 extra point for finishing taks in bonus.js
+- 06 ORM - Sequelize
+  - Assigment
+  - Required tasks for 3 points:
+    - As described in README 
+  - 1 point if index.js runs without any error
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
