@@ -13,6 +13,14 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 04 JavaScript Modules, debugging - [presentation](https://docs.google.com/presentation/d/1PRYeZAmywSd4pfirIPZQv6qic5ty5rUUBsh_6Lfux3I/edit?usp=sharing)
 - 05 NodeJS - Express Server - [presentation](https://docs.google.com/presentation/d/1RZJXLhgdzBajMYx7RHfO8k6gByorKBxMe8V7G97OmG0/edit?usp=sharing)
 - 06 ORM - Sequelize - [presentation](https://docs.google.com/presentation/d/1QOj9iJxpC3wRnAQWFBvzUzQFgI15Zv_cOcB5LKL2SLo/edit?usp=sharing)
+- 07 API - REST - [presentation](https://docs.google.com/presentation/d/1NoPhYCHhuvwU3OJJL0dBo_vFb1k_k8vzKriD9czboY4/edit?usp=sharing)
+
+## Projects
+#### 01 NodeJS Backend
+- Assigment and all the necessary information can be found [here](https://docs.google.com/document/d/1VBxatUhduVp1n94rcpPuIGdD1u1JaVuWv4F8v94cx9Y/edit?usp=sharing).
+- Deadline 14th November (in ~30 days)
+- Assigment repository https://classroom.github.com/a/ViWzfCyF
+  
 
 ## Labs
 
@@ -56,6 +64,12 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - Required tasks for 3 points:
     - As described in README 
   - 1 point if index.js runs without any error
+- 07 API - Rest API 
+  - Assigment https://classroom.github.com/a/f7lA6ftK
+  - 3 points for tasks in README
+  - 1 point if project runs without any error
+  - There is 1 extra point for those who are really interested
+
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
