@@ -64,11 +64,13 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - Required tasks for 3 points:
     - As described in README 
   - 1 point if index.js runs without any error
+  - Deadline Oct 16, 2021, 17:00 CEST
 - 07 API - Rest API 
   - Assigment https://classroom.github.com/a/f7lA6ftK
   - 3 points for tasks in README
   - 1 point if project runs without any error
   - There is 1 extra point for those who are really interested
+  - Deadline Oct 24, 2021, 02:00 CEST
 
 
 #### Labs evaluation
