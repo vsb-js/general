@@ -14,6 +14,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 05 NodeJS - Express Server - [presentation](https://docs.google.com/presentation/d/1RZJXLhgdzBajMYx7RHfO8k6gByorKBxMe8V7G97OmG0/edit?usp=sharing)
 - 06 ORM - Sequelize - [presentation](https://docs.google.com/presentation/d/1QOj9iJxpC3wRnAQWFBvzUzQFgI15Zv_cOcB5LKL2SLo/edit?usp=sharing)
 - 07 API - REST - [presentation](https://docs.google.com/presentation/d/1NoPhYCHhuvwU3OJJL0dBo_vFb1k_k8vzKriD9czboY4/edit?usp=sharing)
+- 08 FE React - [presentation](https://docs.google.com/presentation/d/1UGChD8_ARCxSI8OgOfJKHbv1jYNV4LK4LnLmTFxUnBs/edit?usp=sharing)
 
 ## Projects
 #### 01 NodeJS Backend
@@ -71,7 +72,12 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if project runs without any error
   - There is 1 extra point for those who are really interested
   - Deadline Oct 24, 2021, 02:00 CEST
-
+- 08 React 
+  - Assigment https://classroom.github.com/a/TjzalNMX
+  - 3 points for tasks in README
+  - 1 point if the project runs without any error (`npm start`) 
+  - There is 1 extra point for those who are really interested
+  - Deadline Oct 31, 2021, 23:00 CEST
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
