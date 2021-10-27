@@ -79,6 +79,11 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if the project runs without any error (`npm start`) 
   - There is 1 extra point for those who are really interested
   - Deadline Oct 31, 2021, 23:00 CEST
+- 09 React
+  - Assigment https://classroom.github.com/a/s6CZBjVR
+  - 3 points for the tasks in README
+  - 1 point if the project runs withtou any error 
+  - Deadline Nov 8, 2021, 01:00 CEST 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
