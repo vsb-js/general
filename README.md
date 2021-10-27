@@ -15,6 +15,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 06 ORM - Sequelize - [presentation](https://docs.google.com/presentation/d/1QOj9iJxpC3wRnAQWFBvzUzQFgI15Zv_cOcB5LKL2SLo/edit?usp=sharing)
 - 07 API - REST - [presentation](https://docs.google.com/presentation/d/1NoPhYCHhuvwU3OJJL0dBo_vFb1k_k8vzKriD9czboY4/edit?usp=sharing)
 - 08 FE React - [presentation](https://docs.google.com/presentation/d/1UGChD8_ARCxSI8OgOfJKHbv1jYNV4LK4LnLmTFxUnBs/edit?usp=sharing)
+- 09 FE React - [presentation](https://docs.google.com/presentation/d/1okeM2GDvaQIeA5eshBEA0Jl5nSTfgrZGxCcWpZabxK8/edit?usp=sharing)
 
 ## Projects
 #### 01 NodeJS Backend
