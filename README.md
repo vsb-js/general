@@ -86,7 +86,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if the project runs withtou any error 
   - 1 bonus point for task 6
   - Deadline Nov 8, 2021, 01:00 CEST 
- - 10 React
+- 10 React
   - Assigment https://classroom.github.com/a/ZwRxJZMh
   - 3 points for the tasks 
   - 1 bonus point
