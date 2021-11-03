@@ -16,6 +16,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 07 API - REST - [presentation](https://docs.google.com/presentation/d/1NoPhYCHhuvwU3OJJL0dBo_vFb1k_k8vzKriD9czboY4/edit?usp=sharing)
 - 08 FE React - [presentation](https://docs.google.com/presentation/d/1UGChD8_ARCxSI8OgOfJKHbv1jYNV4LK4LnLmTFxUnBs/edit?usp=sharing)
 - 09 FE React - [presentation](https://docs.google.com/presentation/d/1okeM2GDvaQIeA5eshBEA0Jl5nSTfgrZGxCcWpZabxK8/edit?usp=sharing)
+- 10 FE React Router and Libararies - [presentation](https://docs.google.com/presentation/d/1ejW_rBo9XGcn0FplHHyVKir6f7QjwaQsy8M2odqtyAQ/edit?usp=sharing)
 
 ## Projects
 #### 01 NodeJS Backend
@@ -85,6 +86,11 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - 1 point if the project runs withtou any error 
   - 1 bonus point for task 6
   - Deadline Nov 8, 2021, 01:00 CEST 
+ - 10 React
+  - Assigment https://classroom.github.com/a/ZwRxJZMh
+  - 3 points for the tasks 
+  - 1 bonus point
+  - Deadline Nov 15, 2021, 15:00 CEST 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
