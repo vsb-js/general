@@ -22,7 +22,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 ## Projects
 #### 01 NodeJS Backend
 - Assigment and all the necessary information can be found [here](https://docs.google.com/document/d/1VBxatUhduVp1n94rcpPuIGdD1u1JaVuWv4F8v94cx9Y/edit?usp=sharing).
-- Deadline 14th November (in ~30 days)
+- Deadline 14th November (in ~30 days) || extended 21th November because of the public holiday
 - Assigment repository https://classroom.github.com/a/ViWzfCyF
   
 
