@@ -18,14 +18,18 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 - 09 FE React - [presentation](https://docs.google.com/presentation/d/1okeM2GDvaQIeA5eshBEA0Jl5nSTfgrZGxCcWpZabxK8/edit?usp=sharing)
 - 10 FE React Router and Libararies - [presentation](https://docs.google.com/presentation/d/1ejW_rBo9XGcn0FplHHyVKir6f7QjwaQsy8M2odqtyAQ/edit?usp=sharing)
 - 11 FE React API - [presentation](https://docs.google.com/presentation/d/1zl1KCGzTDKuzjuBFQfaMSeVJEAPr5Aks4triGoihmz4/edit?usp=sharing)
+- 12 Notes and Project 2 [presentation](https://docs.google.com/presentation/d/16cG94wJkXZMEc47oMAhQqlm7hDd9-MzTInXJkaqoPEQ/edit?usp=sharing)
 
 ## Projects
 #### 01 NodeJS Backend
 - Assigment and all the necessary information can be found [here](https://docs.google.com/document/d/1VBxatUhduVp1n94rcpPuIGdD1u1JaVuWv4F8v94cx9Y/edit?usp=sharing).
 - Deadline 14th November (in ~30 days) || extended 24th November because of the public holiday
 - Assigment repository https://classroom.github.com/a/ViWzfCyF
-  
 
+#### 02 FE React App
+- Assigment information can be found [here](https://docs.google.com/document/d/1Q2FqvRPOlZ2zeLi3PkpyqRVsVE03OkUeCSDrvJEOx-E/edit?usp=sharing)
+- Assigment repository TODO HERE
+  
 ## Labs
 
 - 01 N/A
