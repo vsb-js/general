@@ -28,7 +28,8 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
 
 #### 02 FE React App
 - Assigment information can be found [here](https://docs.google.com/document/d/1Q2FqvRPOlZ2zeLi3PkpyqRVsVE03OkUeCSDrvJEOx-E/edit?usp=sharing)
-- Assigment repository TODO HERE
+- Ttry to finish by 15th December
+- Assigment repository https://classroom.github.com/a/ddPWiKPH
   
 ## Labs
 
@@ -40,7 +41,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
       - Install IDE of your choice for JS (Recommended VSC or WebStorm)
 - 02 JavaScript basics
   - Assigment https://classroom.github.com/a/C24ScO_1
-  - Required tasks for 3 points:
+  - Required tasks for 4 points:
      - All tasks in file array.js
      - All tasks in file objects.js
      - All tasks in file strings.js
@@ -49,7 +50,7 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - Deadline (Sep 22, 2021, 16:00 CEST), but please try to do it ASAP
 - 03 JavaScript Advanced
   - Assigment https://classroom.github.com/a/wXs_NBF7
-  - Required tasks for 3 points:
+  - Required tasks for 4 points:
     - As desrcribed in README
     - All tasks in task-read.js, task-axios.js
   - 1 point if those files can be run without error and package.json is properly set with dependencies
@@ -57,48 +58,48 @@ Forum: https://github.com/vsb-js/forum-2021-winter/discussions
   - Deadline - in 10 days (Sep 26, 2021), but please try to do it ASAP
 - 04 JavaScript - modules / debugging 
   - Assigment https://classroom.github.com/a/HCr64JaR
-  - Required tasks for 3 points:
+  - Required tasks for 4 points:
     - As desrcribed in README
   - 1 point if index.js runs without any error 
   - Deadline ( Oct 3, 2021), but please try to do it ASAP
 - 05 NodeJS - Expres server
   - Assigment https://classroom.github.com/a/3LH1DoVz
-  - Required tasks for 3 points:
+  - Required tasks for 4 points:
     - As described in README, index.js
   - 1 point if index.js runs without any error
   - You can earn 1 extra point for finishing taks in bonus.js
 - 06 ORM - Sequelize
   - Assigment https://classroom.github.com/a/xqstIa46
-  - Required tasks for 3 points:
+  - Required tasks for 4 points:
     - As described in README 
   - 1 point if index.js runs without any error
   - Deadline Oct 16, 2021, 17:00 CEST
 - 07 API - Rest API 
   - Assigment https://classroom.github.com/a/f7lA6ftK
-  - 3 points for tasks in README
+  - 4 points for tasks in README
   - 1 point if project runs without any error
   - There is 1 extra point for those who are really interested
   - Deadline Oct 24, 2021, 02:00 CEST
 - 08 React 
   - Assigment https://classroom.github.com/a/TjzalNMX
-  - 3 points for tasks in README
+  - 4 points for tasks in README
   - 1 point if the project runs without any error (`npm start`) 
   - There is 1 extra point for those who are really interested
   - Deadline Oct 31, 2021, 23:00 CEST
 - 09 React
   - Assigment https://classroom.github.com/a/s6CZBjVR
-  - 3 points for the tasks in README 1- 5
+  - 4 points for the tasks in README 1- 5
   - 1 point if the project runs withtou any error 
   - 1 bonus point for task 6
   - Deadline Nov 8, 2021, 01:00 CEST 
 - 10 React
   - Assigment https://classroom.github.com/a/ZwRxJZMh
-  - 4 points for the tasks 
+  - 5 points for the tasks 
   - 1 bonus point
   - Deadline Nov 15, 2021, 15:00 CEST 
 - 11 React with BE/FE server
   - Assigment https://classroom.github.com/a/OlIHGHSF
-  - 4 points for the tasks
+  - 5 points for the tasks
   - Deadline Nov 21, 2021, 17:00 CEST 
 
 #### Labs evaluation
