@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript - Winter 2022
 General info about the subject JavaScript
 
 Lecture: Wednesday 16:00 - 16:55 - EB331  
