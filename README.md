@@ -67,7 +67,6 @@ Lectures and materials for the subject
 - JavaScript guides at w3schools https://www.w3schools.com/js/  
 - React guides https://reactjs.org/docs/getting-started.html  
 - NodeJS guides https://nodejs.org/en/docs/guides/  
-- GraphQL guides https://graphql.org/learn/  
 
 ## Recommended Literature
 - JavaScript: The Good Parts, Douglas Crockford, O'Reilly Media 2008, ISBN: 9780596517748
