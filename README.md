@@ -1,7 +1,7 @@
 # JavaScript - Winter 2022
 General info about the subject JavaScript
 
-Lecture: Wednesday 16:00 - 16:55 - EB104
+Lecture: Wednesday 16:00 - 16:55 - EB104   
 Labs: Wednesday 16:55 - 18:30 EB104
 
 Forum: https://github.com/vsb-js/forum-2022-winter/discussions
