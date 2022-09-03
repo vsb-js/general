@@ -6,20 +6,17 @@ Labs: Wednesday 16:55 - 18:30 EB104
 
 Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 ## Lectures
-- 00 Introduction to the subject - XXX
-- 01 Introduction to JavaScript - XXX
+- 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/1H9VU5G4n3sB2sippyC9syoNDvmT4TSo9P5tF_P0G_6Q/edit?usp=sharing)
+- 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1YNIV8t4AHXfldDT0Hb4vyfiuGVaKVXpG2BXEPXJuMYI/edit?usp=sharing)
 
-## Project - FE React App
-- TBD
-  
+
 ## Labs
-
 - 01 N/A
   -  Homework:
-      - Install NodeJS LTS version (verify using `node -v` in terminal)
-      - Install git (verify using `git --verison` in terminal)
-      - Make sure you have GitHub account and properly setup your machine to work with git
-      - Install IDE of your choice for JS (Recommended VSC or WebStorm)
+      - Install [NodeJS LTS](https://nodejs.org/en/) version (verify using `node -v` in terminal)
+      - Install [git](https://desktop.github.com/) (verify using `git --verison` in terminal) - You can also use [GitHub Desktop App](https://desktop.github.com/) - might be easier) 
+      - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
+      - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
       - Send us your GitHub handle (username)
 
 #### Labs evaluation
@@ -36,6 +33,10 @@ In cases where code is copied 1:1, both students get 0 points.
 
 #### Tips and tricks:
 - [How to format your code](https://github.com/vsb-js/forum-2021-winter/discussions/2)
+
+## Project - FE React App
+- TBD
+  
 
 ---
 
