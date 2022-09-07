@@ -81,3 +81,13 @@ Lectures and materials for the subject
 ## Recommended Literature
 - JavaScript: The Good Parts, Douglas Crockford, O'Reilly Media 2008, ISBN: 9780596517748
 - Fullstack React: The Complete Guide to ReactJS and Friends. Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis, Fullstack.io, 2017.  ISBN 978-0-9913446-2-8
+
+# Tips 
+
+### How to submit your work with git
+The basic set of commands which needs to be done:
+```
+git add * we add all the files
+git commit -m "My message" we commit added files
+git push we push the files up to remote (GitHub)
+```
