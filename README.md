@@ -8,7 +8,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 ## Lectures
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/1H9VU5G4n3sB2sippyC9syoNDvmT4TSo9P5tF_P0G_6Q/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1YNIV8t4AHXfldDT0Hb4vyfiuGVaKVXpG2BXEPXJuMYI/edit?usp=sharing)
-
+- 02 Basics of JavaSccript - [Presentation](https://docs.google.com/presentation/d/1pN-GbWgMH1tkJH68IlQX1mcNYCtBfgFbx1k1dMMCDtg/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -18,6 +18,15 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
       - Send us your GitHub handle (username)
+
+- 02 Basic of JavaScript
+  - Assigment https://classroom.github.com/a/n6RKb8ld
+  - You can get up to 4 points for:
+    - All tasks in file array.js 1pts
+    - All tasks in file objects.js 1pts
+    - All tasks in file strings.js 1pts
+    - All tasks in file cycles.js 1pts
+  - You can gain 1 extra point for all tasks marked as BONUS 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
