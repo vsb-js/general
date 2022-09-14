@@ -9,6 +9,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/1H9VU5G4n3sB2sippyC9syoNDvmT4TSo9P5tF_P0G_6Q/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1YNIV8t4AHXfldDT0Hb4vyfiuGVaKVXpG2BXEPXJuMYI/edit?usp=sharing)
 - 02 Basics of JavaSccript - [Presentation](https://docs.google.com/presentation/d/1pN-GbWgMH1tkJH68IlQX1mcNYCtBfgFbx1k1dMMCDtg/edit?usp=sharing)
+- 03 Advanced JavaScript - [Presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -27,6 +28,11 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
     - All tasks in file strings.js 1pts
     - All tasks in file cycles.js 1pts
   - You can gain 1 extra point for all tasks marked as BONUS 
+  
+- 03 Advanced JavaScript
+ - Assigment https://classroom.github.com/a/wz_RYFiU
+ - You can get up to 4 points for taks specified in the README
+ - You can get 1 extra point for tasks marked as bonus 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
