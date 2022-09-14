@@ -30,9 +30,9 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - You can gain 1 extra point for all tasks marked as BONUS 
   
 - 03 Advanced JavaScript
- - Assigment https://classroom.github.com/a/wz_RYFiU
- - You can get up to 4 points for taks specified in the README
- - You can get 1 extra point for tasks marked as bonus 
+  - Assigment https://classroom.github.com/a/wz_RYFiU
+  - You can get up to 4 points for taks specified in the README
+  - You can get 1 extra point for tasks marked as bonus 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
