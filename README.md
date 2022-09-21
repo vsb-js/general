@@ -29,11 +29,19 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
     - All tasks in file strings.js 1pts
     - All tasks in file cycles.js 1pts
   - You can gain 1 extra point for all tasks marked as BONUS 
+  - Deadline Due Sep 28, 2022, 15:00 CEST
   
 - 03 Advanced JavaScript
   - Assigment https://classroom.github.com/a/wz_RYFiU
   - You can get up to 4 points for taks specified in the README
   - You can get 1 extra point for tasks marked as bonus 
+  - Deadline Due Sep 28, 2022, 16:00 CEST
+  
+- 04 Modules in JavaScript
+  - Assigment https://classroom.github.com/a/b0dLfHra
+  - You can get up to 3 points for all the tasks in README
+  - Deadline Oct 5, 2022, 17:00 CEST
+  
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
