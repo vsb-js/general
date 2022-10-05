@@ -11,6 +11,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 - 02 Basics of JavaSccript - [Presentation](https://docs.google.com/presentation/d/1pN-GbWgMH1tkJH68IlQX1mcNYCtBfgFbx1k1dMMCDtg/edit?usp=sharing)
 - 03 Advanced JavaScript - [Presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit?usp=sharing)
 - 04 Modules and debugging in JavaScript - [Presentation](https://docs.google.com/presentation/d/10fnh2E_yMzPpOHdFu_zEAoh6xYCcm9uN24dWxrOKqBk/edit?usp=sharing)
+- 05 Express web server - [Presentation](https://docs.google.com/presentation/d/1mB5diin7XtzsZhRX_WWgDERf2I1Ifd2b1TfzROAqv2A/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
