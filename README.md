@@ -43,7 +43,12 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - You can get up to 3 points for all the tasks in README
   - Deadline Oct 5, 2022, 17:00 CEST
   
-
+- 05 NodeJS Express
+ - Assigment https://classroom.github.com/a/aOkaunZn
+ - You can get 4 points for all the tasks in index.js 
+ - You can get 1 extra points for bonus.js 
+ - Deadline is Oct 19, 2022, 17:00 CEST
+  
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 3 - 4 points for each lab 
