@@ -12,6 +12,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 - 03 Advanced JavaScript - [Presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit?usp=sharing)
 - 04 Modules and debugging in JavaScript - [Presentation](https://docs.google.com/presentation/d/10fnh2E_yMzPpOHdFu_zEAoh6xYCcm9uN24dWxrOKqBk/edit?usp=sharing)
 - 05 Express web server - [Presentation](https://docs.google.com/presentation/d/1mB5diin7XtzsZhRX_WWgDERf2I1Ifd2b1TfzROAqv2A/edit?usp=sharing)
+- 06 BE with ORM - [Presentation](https://docs.google.com/presentation/d/1dT3bvAgYxkJML1bXtk_0UqDGbnAil0Qk8KT4E8pDAf0/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
