@@ -49,6 +49,12 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - You can get 4 points for all the tasks in index.js 
   - You can get 1 extra points for bonus.js 
   - Deadline is Oct 19, 2022, 17:00 CEST
+
+- 06 ORM in NodeJS 
+  - Assigment https://classroom.github.com/a/8QNnNPpI
+  - You can get up to 3 points for finishing the tasks 
+  - Deadline is Oct 26, 2022, 17:00 CEST
+    
   
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
