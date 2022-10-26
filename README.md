@@ -14,6 +14,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 - 05 Express web server - [Presentation](https://docs.google.com/presentation/d/1mB5diin7XtzsZhRX_WWgDERf2I1Ifd2b1TfzROAqv2A/edit?usp=sharing)
 - 06 BE with ORM - [Presentation](https://docs.google.com/presentation/d/1dT3bvAgYxkJML1bXtk_0UqDGbnAil0Qk8KT4E8pDAf0/edit?usp=sharing)
 - 07 Web - React App - [Presentation](https://docs.google.com/presentation/d/1XPbcFPCkdHPAMFpiv6kFNsqpS0qHxNz1WLyhfXfYFfg/edit?usp=sharing)
+- 08 React Hooks Part 1 - [Presentation](https://docs.google.com/presentation/d/1CHwzAmKcE8wViDQPooDCJ4XBeV596XukSLCMQBWzPkw/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -60,6 +61,12 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - Assigment https://classroom.github.com/a/44qTm27n
   - You can get up to 4 points for finishing the tasks 
   - Deadline is Nov 2, 2022, 17:00 CEST
+  
+- 08 React Hooks Part 1
+  - Assigment https://classroom.github.com/a/MgWXak8k
+  - You can get up to 4 points for finishing the tasks 
+  - You can get 1 bonus point for the bonus task
+  - Deadline is Nov 9, 2022, 16:00 CEST
     
   
 #### Labs evaluation
