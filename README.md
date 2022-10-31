@@ -54,7 +54,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 
 - 06 ORM in NodeJS 
   - Assigment https://classroom.github.com/a/8QNnNPpI
-  - You can get up to 3 points for finishing the tasks 
+  - You can get up to 4 points for finishing the tasks 
   - Deadline is Oct 26, 2022, 17:00 CEST
   
 - 07 React App 
