@@ -16,6 +16,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
 - 07 Web - React App - [Presentation](https://docs.google.com/presentation/d/1XPbcFPCkdHPAMFpiv6kFNsqpS0qHxNz1WLyhfXfYFfg/edit?usp=sharing)
 - 08 React Hooks Part 1 - [Presentation](https://docs.google.com/presentation/d/1CHwzAmKcE8wViDQPooDCJ4XBeV596XukSLCMQBWzPkw/edit?usp=sharing)
 - 09 React Hooks Part 2 - [Presentation](https://docs.google.com/presentation/d/19WUW7OKwf9ALCXZ_GG5P_a_GxbDRZ2rE--U0IKwxDkI/edit?usp=sharing)
+- 10 React Router - [Presentation](https://docs.google.com/presentation/d/1sNiAVYDLpX7oJv_-b5uDluhNud2h285o1KA94qa0W0o/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -75,6 +76,11 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - You can get 2 bonus point for the bonus tasks
   - Deadline is Nov 16, 2022, 17:00 CEST
     
+- 10 React Router
+  - Assignment https://classroom.github.com/a/0s_FdunZ
+  - You can get up to 3 points for finishing the tasks
+  - You can get 1 bonus point for the bonus task
+  - Deadline is Nov 23, 2022, 17:00 CEST
   
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
@@ -92,7 +98,7 @@ In cases where code is copied 1:1, both students get 0 points.
 - [How to format your code](https://github.com/vsb-js/forum-2021-winter/discussions/2)
 
 ## Project - FE React App
-- TBD
+- https://docs.google.com/document/d/1CdNUjfBDxvskjHVTQC4nmV9QCaYeCfw7DkEp9TVW7U8/edit?usp=sharing
   
 
 ---
