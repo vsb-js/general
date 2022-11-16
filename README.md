@@ -83,7 +83,7 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - You can get 1 bonus point for the bonus task
   - Deadline is Nov 23, 2022, 17:00 CEST
   
-- 10 React Router
+- 11 UI frameworks
   - Assignment https://classroom.github.com/a/IQmrjW0s
   - You can get up to 3 points for finishing the tasks
   - You can get 2 bonus points for the bonus task
