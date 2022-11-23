@@ -89,6 +89,11 @@ Forum: https://github.com/vsb-js/forum-2022-winter/discussions
   - You can get 2 bonus points for the bonus task
   - Deadline is Nov 30, 2022, 17:00 CEST
   
+- 12 Recap - TODO app
+  - Assignment https://classroom.github.com/a/bENhg93j
+  - You can get up to 2 points for finishing the task
+  - Deadline is Dec 7, 2022, 17:00 CEST
+  
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 3 - 4 points for each lab 
